@@ -127,6 +127,7 @@ room.run()
 |         cthn          |     未知的消息事件     |
 |     configscreen      | 估计是全屏广播显示礼物 |
 |        rnewbc         |     未知的消息事件     |
+|comm_chatmsg|高能弹幕|
 
 ## 斗鱼STT序列化反序列化库
 
